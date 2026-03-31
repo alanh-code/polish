@@ -1,0 +1,17 @@
+.DS_Store
+
+# Local runtime config
+user-config.json
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+out/
+
+# Logs
+*.log
