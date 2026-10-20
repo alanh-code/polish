@@ -4,6 +4,12 @@ An agent CLI skill that polishes your text — messages, emails, posts, docs —
 
 Built for non-native speakers who want to sound natural without repeated copy-pasting for polishment every time.
 
+## Demo
+
+[![Watch the Polish demo](docs/demo/preview.jpg)](https://github.com/alanh-code/polish/blob/main/docs/demo/polish-demo.mp4)
+
+[Watch the 38-second demo](https://github.com/alanh-code/polish/blob/main/docs/demo/polish-demo.mp4) showing message polishing, reusable profiles, and multilingual support.
+
 ## Before / After
 
 **Slack message:**
