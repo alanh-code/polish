@@ -6,9 +6,9 @@ Built for non-native speakers who want to sound natural without repeated copy-pa
 
 ## Demo
 
-[![Watch the Polish demo](docs/demo/preview.jpg)](https://github.com/alanh-code/polish/blob/main/docs/demo/polish-demo.mp4)
+https://github.com/user-attachments/assets/d4934051-7bf7-48aa-bdd7-1784a46385a0
 
-[Watch the 38-second demo](https://github.com/alanh-code/polish/blob/main/docs/demo/polish-demo.mp4) showing message polishing, reusable profiles, and multilingual support.
+Message polishing, reusable profiles, and multilingual support in 38 seconds.
 
 ## Before / After
 
